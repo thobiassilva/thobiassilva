@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Desenvolvedor Mobile Flutter && FullStack na  <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
+  Desenvolvedor Mobile Flutter && Web FullStack na  <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
 </p>
 
 
