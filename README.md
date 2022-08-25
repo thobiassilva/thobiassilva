@@ -11,7 +11,7 @@
 
 
 <p align="left">
-   <strong> Dart | Flutter | Javascript | Typescript | NodeJS | ReactJS </strong>
+   <strong> Dart | Flutter | Javascript | Typescript | NodeJS </strong>
 </p>
 
 
