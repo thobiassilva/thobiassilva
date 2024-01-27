@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Desenvolvedor Mobile na +A Eduação
+  Desenvolvedor Mobile na +A Educação
 </p>
 
 
