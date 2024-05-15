@@ -37,4 +37,4 @@
 
 </p>  
 
- ![Snake animation](https://github.com/thobiassilva/thobiassilva/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thobiassilva/thobiassilva/blob/output/github-contribution-grid-snake-dark.svg)
